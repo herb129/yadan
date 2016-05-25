@@ -16,6 +16,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    int number=0;
+    int sum=number++;
+    
+    
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
